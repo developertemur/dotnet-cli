@@ -1,4 +1,10 @@
-# Table of contents
+# Mundarija
+
+Ushbu kommandalarni bajarishda oldin 
+ - [dotnet](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) ni yuklab olding.
+ - <kbd>Win</kbd> + <kbd>R</kbd> klavishlarni bosing.
+ - **cmd** so'zini yozing va <kbd>Enter</kbd> tugmasini bosing.
+ - va dotnet kommandasin yozishingiz mumkin. Misol uchun **dotnet --info**
 
 * [dotnet cli](README.md)
   * [dotnet new](dotnet-cli/dotnet-new.md)
