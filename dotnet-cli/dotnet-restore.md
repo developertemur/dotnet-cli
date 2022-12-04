@@ -1,6 +1,6 @@
 ---
 description: >-
-  Agar siz windows operatsion tizimni ishlatsangiz cmd yoki powershellga dotent build kommandasini yozasiz. Linux yoki MacOS tizimdan foydalansangiz terminalni ishlatasiz.
+  Agar siz windows operatsion tizimni ishlatsangiz cmd yoki powershellga dotnet build kommandasini yozasiz. Linux yoki MacOS tizimdan foydalansangiz terminalni ishlatasiz.
 ---
 
 # dotnet restore

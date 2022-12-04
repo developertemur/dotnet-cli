@@ -1,6 +1,7 @@
 # Table of contents
 
 * [dotnet cli](README.md)
+  * [dotnet new](dotnet-cli/dotnet-new.md)
   * [dotnet build](dotnet-cli/dotnet-build.md)
   * [dotnet run](dotnet-cli/dotnet-run.md)
   * [dotnet watch](dotnet-cli/dotnet-watch.md)
