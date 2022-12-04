@@ -10,5 +10,3 @@ description: >-
 **dotnet run** komandasi tarkibida quyidagi 2 ta kommandalar ketma ketligini beradi.
   - dotnet restore
   - dotnet build
-  
-
