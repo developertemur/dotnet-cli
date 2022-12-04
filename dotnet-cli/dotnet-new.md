@@ -49,4 +49,4 @@ Misol uchun
 ```csharp
 dotnet new console --name Simple
 ```
-Komandasini yozish orqali **Simple** nomli konsole dastur uchun shablon yaratib olasiz.
+Komandasini yozish orqali **Simple** nomli konsole dastur uchun shablon yaratib olasiz..
